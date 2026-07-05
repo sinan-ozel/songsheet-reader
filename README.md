@@ -4,7 +4,7 @@ A single-file HTML app for reading chord/lyric sheets, with clickable fretboard 
 
 ## Usage
 
-Here is the live link, check it out: [https://sinan-ozel.github.io/songsheet-reader/]
+Here is the live link, check it out: [https://sinan-ozel.github.io/songsheet-reader/](https://sinan-ozel.github.io/songsheet-reader/)
 
 ### Local Usage
 
