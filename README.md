@@ -30,9 +30,13 @@ Open `index.html` in any browser. No build step, no server, no dependencies to i
 - Auto-scroll with speed control
 - Manual prev/next line navigation
 
-## Hosting
+## Tested With
 
-Rename the file to `index.html` and enable GitHub Pages on the repo (Settings → Pages) to serve it live.
+- [x] Bsaic Example
+- [ ] Seventh Chords
+- [ ] Non-English Characters
+- [ ] Slahes Between Chords
+- [ ] ...
 
 ## License
 
